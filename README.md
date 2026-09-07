@@ -22,3 +22,15 @@ I like Ty Burrell because of his acting in the TV Show **Modern Family**. He had
 - Treat You Better by Shawn Mendes
 
 [Read about my favorite city](MyCity.md)
+
+---
+
+## Cities I want to visit
+
+There are so many places I want to visit around the world. If I had to pick 4 cities only, I would choose: Tokyo, Nashville, Rome and Singapore.
+|City|Why I want to visit|Distance from NYC|Cost of travel from NYC|
+|---|---|---|---|
+|Tokyo|I would love to experience Japanese culture, try authentic Japanese food, and explore the city's mix of modern technology and traditional architecture. |6740 miles|$1000+|
+|Nashville|I want to experience the city's music scene, especially its famous country music culture, while exploring the city itself.|760 miles|$200+|
+|Rome|I want to see Rome's ancient history and famous landmarks and eat italian food|4270 miles|4600+|
+|Singapore|I would love to experience its modern skyline, diverse cultures, food, and mix of Asian traditions and modern city life.|9530 miles|$1000+|
