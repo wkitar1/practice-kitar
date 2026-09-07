@@ -34,3 +34,19 @@ There are so many places I want to visit around the world. If I had to pick 4 ci
 |Nashville|I want to experience the city's music scene, especially its famous country music culture, while exploring the city itself.|760 miles|$200+|
 |Rome|I want to see Rome's ancient history and famous landmarks and eat italian food|4270 miles|4600+|
 |Singapore|I would love to experience its modern skyline, diverse cultures, food, and mix of Asian traditions and modern city life.|9530 miles|$1000+|
+
+---
+
+## Favorite Jokes
+
+Gary Delaney:
+
+> As a kid I was made to walk the plank. We couldn't afford a dog.
+
+Tomy Cooper:
+
+> I used to be indecisive. Now I'm not so sure.
+
+Jack Handey:
+
+> I want to die peacefully in my sleep like my grandfather, not screaming like the passengers in his car.
