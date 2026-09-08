@@ -57,7 +57,7 @@ Jack Handey:
 
 This snippet models a playing die with sides numbered 1 to N.
 
-````import java.util.Random;
+```import java.util.Random;
 
 /**
  * Models a playing die with sides numbered 1 to N.
@@ -182,7 +182,8 @@ public class Die
     }
 
 
-}// end of Die class```
+}// end of Die class
+
+```
 
 Snippet Source: <https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/Die.java>
-````
